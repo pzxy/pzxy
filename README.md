@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**pzxy/pzxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⏳ Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 68.32 %
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⏰ Updated on Wed, 07 Sep 2022 08:55:25 GMT
+
+---
+### My GitHub Contributions    
+
+![](https://raw.githubusercontent.com/bimoQi/bimoQi/main/assets/github-contribution-grid-snake.svg)          
+
+### About me      
+
+[![Angola peng's GitHub stats](https://github-readme-stats.vercel.app/api?username=bimoQi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Angola peng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bimoQi&layout=compact&hide_border=true&langs_count=10)
+
+I'm angola, a new-media editor.    
+
+- 🔭 Migrant Worker, Migrant Worker Soul, Migrant Worker Upper Class
+- 📫 My E-mail: 1303445410@qq.com          
+- 🔧 My Power Tools: </br>   
+![VS Code](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-blue)     
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)     

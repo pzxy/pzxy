@@ -35,7 +35,7 @@ const readme = `\
 I'm angola, a new-media editor.    
 
 - 🔭 Migrant Worker, Migrant Worker Soul, Migrant Worker Upper Class
-- 📫 My E-mail: 1303445410@qq.com          
+- 📫 My E-mail: wonkung@163.com          
 - 🔧 My Power Tools: </br>   
 ![VS Code](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-blue)     
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)     

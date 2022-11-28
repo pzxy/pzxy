@@ -32,7 +32,7 @@ const readme = `\
 [![Angola peng's GitHub stats](https://github-readme-stats.vercel.app/api?username=pzxy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Angola peng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pzxy&layout=compact&hide_border=true&langs_count=10)
 
-I'm angola, a new-media editor.    
+I'm YuWu, a acmen.    
 
 - 🔭 Migrant Worker, Migrant Worker Soul, Migrant Worker Upper Class
 - 📫 My E-mail: wonkung@163.com          

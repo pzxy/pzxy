@@ -1,12 +1,26 @@
 ### Hi there 👋
 
-⏳ Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 29.80 %
+⏳ Year progress { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 31.71 %
 
-Coding for world peace !!!
+---
 
-<p >
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=pzxy&theme=transparent&show_icons=true&hide_border=false&hide_title=true&hide_rank=true&hide=issues&disable_animations=true"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pzxy&theme=transparent&hide_border=false&layout=compact&disable_animations=true&langs_count=4&hide=javascript,html,css" />
-<!-- <br/>
-<img  src="https://skillicons.dev/icons?i=golang,cpp,rust,java,docker,mysql&theme=light" /> -->
-</p>
+⏰ Updated on Fri, 26 Apr 2024 01:43:48 GMT
+
+---
+### My GitHub Contributions    
+
+![](https://raw.githubusercontent.com/pzxy/pzxy/main/assets/github-contribution-grid-snake.svg)          
+
+### About me      
+
+[![Angola peng's GitHub stats](https://github-readme-stats.vercel.app/api?username=pzxy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Angola peng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pzxy&layout=compact&hide_border=true&langs_count=10)
+
+I'm YuWu, a acmen.    
+
+- 🔭 Migrant Worker, Migrant Worker Soul, Migrant Worker Upper Class
+- 📫 My E-mail: wonkung@163.com          
+- 🔧 My Power Tools: </br>   
+![VS Code](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-blue)     
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)     
+
